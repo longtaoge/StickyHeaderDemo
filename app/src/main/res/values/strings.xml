@@ -1,0 +1,385 @@
+<resources>
+    <string name="app_name">StickyHeaderDemo</string>
+
+    <string name="appsting">
+        [
+    {
+        "cell": "(543)-942-9697",
+        "email": "jamie.adams@example.com",
+        "location": {
+            "city": "shelby",
+            "postcode": "41130",
+            "state": "new york",
+            "street": "8000 harrison ct"
+        },
+        "name": {
+            "first": "jamie",
+            "last": "adams",
+            "title": "ms"
+        },
+        "phone": "(625)-563-9392",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/12.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/12.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/12.jpg"
+        }
+    },
+    {
+        "cell": "46754146",
+        "email": "alfred.andersen@example.com",
+        "location": {
+            "city": "jystrup",
+            "postcode": "92823",
+            "state": "midtjylland",
+            "street": "7456 rylevej"
+        },
+        "name": {
+            "first": "alfred",
+            "last": "andersen",
+            "title": "mr"
+        },
+        "phone": "99029405",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/2.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/2.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
+        }
+    },
+    {
+        "cell": "45460203",
+        "email": "sofia.andersen@example.com",
+        "location": {
+            "city": "brondby",
+            "postcode": "94383",
+            "state": "syddanmark",
+            "street": "6277 birke alle"
+        },
+        "name": {
+            "first": "sofia",
+            "last": "andersen",
+            "title": "mrs"
+        },
+        "phone": "88630473",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/83.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/83.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/83.jpg"
+        }
+    },
+    {
+        "cell": "0701-526-865",
+        "email": "grace.bates@example.com",
+        "location": {
+            "city": "norwich",
+            "postcode": "C4 4RB",
+            "state": "county down",
+            "street": "1273 richmond road"
+        },
+        "name": {
+            "first": "grace",
+            "last": "bates",
+            "title": "ms"
+        },
+        "phone": "017687 05575",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/91.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/91.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/91.jpg"
+        }
+    },
+    {
+        "cell": "0734-509-698",
+        "email": "kimberly.burke@example.com",
+        "location": {
+            "city": "preston",
+            "postcode": "Y27 5WU",
+            "state": "hertfordshire",
+            "street": "3898 windsor road"
+        },
+        "name": {
+            "first": "kimberly",
+            "last": "burke",
+            "title": "ms"
+        },
+        "phone": "016977 5023",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/5.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/5.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/5.jpg"
+        }
+    },
+    {
+        "cell": "(307)-967-5539",
+        "email": "alyssa.burns@example.com",
+        "location": {
+            "city": "grand prairie",
+            "postcode": "47719",
+            "state": "new york",
+            "street": "4884 spring st"
+        },
+        "name": {
+            "first": "alyssa",
+            "last": "burns",
+            "title": "ms"
+        },
+        "phone": "(285)-974-8494",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/44.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/44.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/44.jpg"
+        }
+    },
+    {
+        "cell": "0717-390-733",
+        "email": "caleb.campbell@example.com",
+        "location": {
+            "city": "aberdeen",
+            "postcode": "EX7 7GR",
+            "state": "county tyrone",
+            "street": "3011 london road"
+        },
+        "name": {
+            "first": "caleb",
+            "last": "campbell",
+            "title": "mr"
+        },
+        "phone": "013873 62518",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/52.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/52.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/52.jpg"
+        }
+    },
+    {
+        "cell": "06-16-89-15-44",
+        "email": "logan.carpentier@example.com",
+        "location": {
+            "city": "clermont-ferrand",
+            "postcode": "51405",
+            "state": "aisne",
+            "street": "1509 rue victor-hugo"
+        },
+        "name": {
+            "first": "logan",
+            "last": "carpentier",
+            "title": "mr"
+        },
+        "phone": "04-56-88-61-57",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/31.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/31.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/31.jpg"
+        }
+    },
+    {
+        "cell": "0719-309-888",
+        "email": "shaun.carroll@example.com",
+        "location": {
+            "city": "brighton and hove",
+            "postcode": "YW7R 7DG",
+            "state": "tyne and wear",
+            "street": "5762 windsor road"
+        },
+        "name": {
+            "first": "shaun",
+            "last": "carroll",
+            "title": "mr"
+        },
+        "phone": "015396 49242",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/53.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/53.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/53.jpg"
+        }
+    },
+    {
+        "cell": "(543)-942-9697",
+        "email": "jamie.adams@example.com",
+        "location": {
+            "city": "shelby",
+            "postcode": "41130",
+            "state": "new york",
+            "street": "8000 harrison ct"
+        },
+        "name": {
+            "first": "jamie",
+            "last": "adams",
+            "title": "ms"
+        },
+        "phone": "(625)-563-9392",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/12.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/12.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/12.jpg"
+        }
+    },
+    {
+        "cell": "46754146",
+        "email": "alfred.andersen@example.com",
+        "location": {
+            "city": "jystrup",
+            "postcode": "92823",
+            "state": "midtjylland",
+            "street": "7456 rylevej"
+        },
+        "name": {
+            "first": "alfred",
+            "last": "andersen",
+            "title": "mr"
+        },
+        "phone": "99029405",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/2.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/2.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
+        }
+    },
+    {
+        "cell": "45460203",
+        "email": "sofia.andersen@example.com",
+        "location": {
+            "city": "brondby",
+            "postcode": "94383",
+            "state": "syddanmark",
+            "street": "6277 birke alle"
+        },
+        "name": {
+            "first": "sofia",
+            "last": "andersen",
+            "title": "mrs"
+        },
+        "phone": "88630473",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/83.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/83.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/83.jpg"
+        }
+    },
+    {
+        "cell": "0701-526-865",
+        "email": "grace.bates@example.com",
+        "location": {
+            "city": "norwich",
+            "postcode": "C4 4RB",
+            "state": "county down",
+            "street": "1273 richmond road"
+        },
+        "name": {
+            "first": "grace",
+            "last": "bates",
+            "title": "ms"
+        },
+        "phone": "017687 05575",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/91.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/91.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/91.jpg"
+        }
+    },
+    {
+        "cell": "0734-509-698",
+        "email": "kimberly.burke@example.com",
+        "location": {
+            "city": "preston",
+            "postcode": "Y27 5WU",
+            "state": "hertfordshire",
+            "street": "3898 windsor road"
+        },
+        "name": {
+            "first": "kimberly",
+            "last": "burke",
+            "title": "ms"
+        },
+        "phone": "016977 5023",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/5.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/5.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/5.jpg"
+        }
+    },
+    {
+        "cell": "(307)-967-5539",
+        "email": "alyssa.burns@example.com",
+        "location": {
+            "city": "grand prairie",
+            "postcode": "47719",
+            "state": "new york",
+            "street": "4884 spring st"
+        },
+        "name": {
+            "first": "alyssa",
+            "last": "burns",
+            "title": "ms"
+        },
+        "phone": "(285)-974-8494",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/44.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/44.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/44.jpg"
+        }
+    },
+    {
+        "cell": "0717-390-733",
+        "email": "caleb.campbell@example.com",
+        "location": {
+            "city": "aberdeen",
+            "postcode": "EX7 7GR",
+            "state": "county tyrone",
+            "street": "3011 london road"
+        },
+        "name": {
+            "first": "caleb",
+            "last": "campbell",
+            "title": "mr"
+        },
+        "phone": "013873 62518",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/52.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/52.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/52.jpg"
+        }
+    },
+    {
+        "cell": "06-16-89-15-44",
+        "email": "logan.carpentier@example.com",
+        "location": {
+            "city": "clermont-ferrand",
+            "postcode": "51405",
+            "state": "aisne",
+            "street": "1509 rue victor-hugo"
+        },
+        "name": {
+            "first": "logan",
+            "last": "carpentier",
+            "title": "mr"
+        },
+        "phone": "04-56-88-61-57",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/31.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/31.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/31.jpg"
+        }
+    },
+    {
+        "cell": "0719-309-888",
+        "email": "shaun.carroll@example.com",
+        "location": {
+            "city": "brighton and hove",
+            "postcode": "YW7R 7DG",
+            "state": "tyne and wear",
+            "street": "5762 windsor road"
+        },
+        "name": {
+            "first": "shaun",
+            "last": "carroll",
+            "title": "mr"
+        },
+        "phone": "015396 49242",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/53.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/53.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/53.jpg"
+        }
+    }
+]</string>
+</resources>
